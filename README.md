@@ -1,1 +1,1 @@
-# linux-yocto-minh
+# linux-yocto
